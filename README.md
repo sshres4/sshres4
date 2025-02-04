@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sshres4
-- 👀 I’m interested in advancing my skills as a software developer through hands-on experience and ongoing education.
+- 👀 I’m interested in advancing my skills as a data engineer through hands-on experience and ongoing education.
 - 🌱 I’m currently learning data anlytical tools in Python
 - 📫 How to reach me shiva04.shrestha@gmail.com
 
